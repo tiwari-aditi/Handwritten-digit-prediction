@@ -1,5 +1,5 @@
 # Handwritten Digit Prediction - Classification Analysis
-This repository contains the code and documentation for the Handwritten Digit Prediction project
+This repository contains the code and documentation for the Handwritten Digit Prediction project.
 
 ## Project Overview
 The objective of this project was to build a machine learning model that accurately predicts handwritten digits (0-9) using the sci-kit-learn's built-in "digits" dataset. The dataset consists of images of handwritten digits, where each image is an 8x8 pixel matrix. The project involved data preprocessing, model training, evaluation, and prediction.
